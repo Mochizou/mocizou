@@ -1,0 +1,2 @@
+# mocizou
+blog,ssm
